@@ -1,2 +1,5 @@
-# sitepoint-telegram-bot
-Code base for Sitepoint article to build bookmark telegram bot
+# DevResourcesBot
+
+code for the DevResources Telegram bot.
+
+try it out @DevResources
