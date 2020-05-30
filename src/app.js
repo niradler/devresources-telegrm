@@ -12,3 +12,5 @@ const bot = new TelegramBot(token, {
 
 commands(bot);
 callback(bot);
+
+console.log("running...", new Date());
