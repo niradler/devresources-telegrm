@@ -12,5 +12,8 @@ module.exports = (bot) =>
       return;
     }
 
-    bot.sendMessage(chatId, `Resource: ${name} have been save.`);
+    bot.sendMessage(
+      chatId,
+      `Resource: ${name} have been save. (still in demo)`
+    );
   });
